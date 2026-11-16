@@ -13,7 +13,9 @@
 
 ### 📊 GitHub Stats
 <p align="center">
+  <!-- 暫時停用：github-readme-stats 公用伺服器已被暫停 (DEPLOYMENT_PAUSED)，自架後再換回網址
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=danthi1103&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  -->
   <img height="170" src="https://streak-stats.demolab.com?user=danthi1103&theme=tokyonight&hide_border=true" />
 </p>
 
