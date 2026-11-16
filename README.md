@@ -1,16 +1,28 @@
-## Hi there 👋
+<!-- 頂部波浪動畫橫幅 -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi,%20I'm%20Dan&fontSize=50&animation=fadeIn&fontAlignY=38" width="100%"/>
 
-<!--
-**danthi1103/danthi1103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- 打字機動畫 -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Angular+%2B+Python;Building+tools+that+make+life+easier" />
+</p>
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,python,git,gitlab,docker,vscode&theme=dark" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Stats
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=danthi1103&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="170" src="https://streak-stats.demolab.com?user=danthi1103&theme=tokyonight&hide_border=true" />
+</p>
+
+<!-- 貢獻活動折線圖 -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=danthi1103&theme=tokyo-night&hide_border=true" width="100%"/>
+
+<!-- 貪食蛇吃綠格子動畫（需要步驟 3） -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/danthi1103/danthi1103/output/github-snake-dark.svg" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
